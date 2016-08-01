@@ -1,0 +1,51 @@
+.kepala{
+	background: #3498db;
+	padding: 20px 3px 3px 25px;
+			/*top right bottom left */
+	color: #fff;
+	text-align: center;
+	height: 50px
+	
+}
+.container {
+	background: #FF7F50;
+	height: 200px;
+	
+}
+.kiri {
+	margin-left: 2px;
+	margin-right: 3px;
+	padding: 5px;
+	float: left;
+	height: 50%;
+	width: 49%;
+	background: #BCF5A9;
+	
+}
+.kanan {
+	padding: 5px;
+	position: relative;
+	background: #01A9DB;
+	width: 45.5%;
+	float: left;
+}
+
+.navbar {
+	background: #AEB404;
+	margin: auto;
+	padding: 20px;
+	
+}
+
+	.navbar li a:hover{
+		color: yellow;
+		padding-right:5px;
+		
+}
+	.navbar li{
+		display: inline;
+		padding:10
+	}
+}
+	
+}
